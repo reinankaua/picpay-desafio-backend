@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-PicpayDesafioBackendApplication<picpay-desafio-backend>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "br.com.reinankaua.picpaydesafiobackend.PicpayDesafioBackendApplication",
+            "projectName": "picpay-desafio-backend",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
